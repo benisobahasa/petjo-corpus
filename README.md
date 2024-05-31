@@ -4,7 +4,7 @@ Welcome to the Petjo Language Corpus repository! This repository contains a coll
 
 ## Contents
 
-- `petjo_corpus.csv`: CSV file containing the Petjo language corpus. Each row represents a document written in Petjo, with additional metadata if available.
+- `korpus_petjo.csv`: CSV file containing the Petjo language corpus. Each row represents a document written in Petjo, with additional metadata if available.
 
 ## Usage
 
