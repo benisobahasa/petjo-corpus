@@ -15,7 +15,7 @@ The corpus data is provided in CSV format, which can be easily loaded and proces
 git clone <repository_url>
 
 
-2. Access the `petjo_corpus.csv` file in the repository for the Petjo language data.
+2. Access the `korpus_petjo.csv` file in the repository for the Petjo language data.
 
 3. Load the CSV file into your preferred programming environment (e.g., Python, R) using libraries such as pandas or readr.
 
